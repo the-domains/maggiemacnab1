@@ -1,0 +1,28 @@
+name: maggiemacnab1
+favicon: null
+layout_spectrum: 0.773274444276467
+typography_spectrum: 0.08230096474289894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#00496d'
+    - '#000000'
+    - '#ffffff'
+    - '#41768f'
+    - '#67461e'
+  brandStrength: 0.9126458705868572
+  lightness: 0.7563796264585108
+  saturation: 0.5528339170850813
+  rhythmicContrast: 0.9990792183671147
+purpose: []
