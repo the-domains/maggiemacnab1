@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[maggiemacnab1]]></title>
         <description><![CDATA[maggiemacnab1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maggiemacnab1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 18:00:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 18:08:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maggiemacnab1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Student work from Casa de los Tres Mundos, Granada, Nicaragua, 2013.]]></title>
-            <description><![CDATA[<article><h1>Student work from Casa de los Tres Mundos, Granada, Nicaragua, 2013.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec97c0530437fefed94acaaa8d263404aed7481e.jpg"></article>]]></description>
-            <link>undefinedstudent-work-from-casa-de-los-tres-mundos-granada-nicaragu/index.html</link>
+            <description><![CDATA[<article><h1>Student work from Casa de los Tres Mundos, Granada, Nicaragua, 2013.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de28971e0cc6c4804ce2104850ef63f791baaad9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maggiemacnab1/student-work-from-casa-de-los-tres-mundos-granada-nicaragu/index.html</link>
             <guid isPermaLink="false">a24a12a5-aaa8-4d0e-80c9-9a3de5663f13</guid>
             <pubDate>Mon, 01 Feb 2016 17:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7219ed65-84a0-4a7d-be01-3996f974016e.jpg">]]></description>
+            <link>https://thegrid.ai/maggiemacnab1/545d6604-2cb4-4117-8d94-130b413daee3/index.html</link>
+            <guid isPermaLink="false">545d6604-2cb4-4117-8d94-130b413daee3</guid>
+            <pubDate>Mon, 01 Feb 2016 18:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
