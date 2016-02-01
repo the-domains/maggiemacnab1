@@ -1,7 +1,7 @@
 name: maggiemacnab1
 favicon: null
 layout_spectrum: 0.97934
-typography_spectrum: 0.08230096474289894
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#67461e'
   brandStrength: 0.9126458705868572
   lightness: 0.7563796264585108
-  saturation: 0.5528339170850813
+  saturation: 0.75
   rhythmicContrast: 0.9990792183671147
 purpose: []
